@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="56" viewBox="0 0 840 56" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',monospace" font-size="14">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#0f2218"/></linearGradient></defs>
+<style>.bl{animation:b 1s steps(1) infinite}@keyframes b{50%{opacity:0}}@media (prefers-reduced-motion:reduce){.bl{animation:none}}</style>
+<rect x="0.5" y="0.5" width="839" height="55" rx="10" fill="url(#g)" stroke="#30363d"/>
+<text x="22" y="34"><tspan fill="#3fb950" font-weight="700">raul@madrid</tspan><tspan fill="#8b949e">:</tspan><tspan fill="#58a6ff">~</tspan><tspan fill="#8b949e">$ </tspan><tspan fill="#ffffff">exit</tspan><tspan fill="#8b949e">  # gracias por la visita · Raúl Oliva García</tspan> <tspan class="bl" fill="#3fb950">▌</tspan></text>
+</svg>
