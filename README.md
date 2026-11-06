@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:3fb950&height=200&section=header&text=Raúl%20Oliva&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=raul%40madrid%3A~%24&descAlignY=58&descSize=20" alt="Cabecera"/>
 
 <a href="https://github.com/raulo9">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=640&height=50&lines=%24+whoami+%E2%86%92+Desarrollador+de+Aplicaciones+Web;%24+ls+~%2Fstack+%E2%86%92+Frontend+%C2%B7+Backend+%C2%B7+BBDD;%24+cat+objetivo.txt+%E2%86%92+eficiencia+y+mejora+continua;%24+cd+Madrid+%26%26+code+." alt="Texto animado tipo terminal"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1200&color=3FB950&center=true&vCenter=true&width=820&height=50&lines=%24+whoami+%E2%86%92+Desarrollador+de+Aplicaciones+Web;%24+ls+~%2Fstack+%E2%86%92+Frontend+%C2%B7+Backend+%C2%B7+BBDD;%24+cat+objetivo.txt+%E2%86%92+eficiencia+y+mejora+continua;%24+cd+Madrid+%26%26+code+." alt="Texto animado tipo terminal"/>
 </a>
 
 <br><br>
