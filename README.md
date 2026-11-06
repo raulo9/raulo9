@@ -16,9 +16,9 @@
 
 <br>
 
-<a href="https://github.com/raulo9/raulo9.github.io"><img src="assets/p_portfolio.svg" alt="raulo9.github.io" width="272"/></a>
-<a href="https://github.com/raulo9/web-adaptable"><img src="assets/p_adaptable.svg" alt="web-adaptable" width="272"/></a>
-<a href="https://github.com/raulo9/crm-mapfre-web"><img src="assets/p_crm.svg" alt="crm-mapfre-web" width="272"/></a>
+<a href="https://raulo9.github.io/Cat-logo-de-Videojuegos/"><img src="assets/p_portfolio.svg" alt="raulo9.github.io" width="272"/></a>
+<a href="https://raulo9.github.io/GTA-V-/galeria.html"><img src="assets/p_adaptable.svg" alt="web-adaptable" width="272"/></a>
+<a href="https://raulo9.github.io/crm-mapfre-web/index.html"><img src="assets/p_crm.svg" alt="crm-mapfre-web" width="272"/></a>
 
 <br>
 
