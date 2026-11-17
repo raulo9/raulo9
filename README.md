@@ -31,23 +31,23 @@
 
 <br>
 
-<!-- Tarjetas de mis proyectos. Cada imagen va dentro de un enlace <a>, así que al pulsar la tarjeta se abre el proyecto. Miden 272px para que quepan tres en una fila -->
+<!-- Tarjetas de mis proyectos. Cada imagen va dentro de un enlace <a>, así que al pulsar la tarjeta se abre el proyecto. Les pongo width="32%" (y no 272px fijos) para que siempre quepan tres en una fila, aunque el perfil de GitHub sea estrecho -->
 <!-- Tarjeta 1: enlaza con el Catálogo de Videojuegos publicado en GitHub Pages -->
-<a href="https://raulo9.github.io/Cat-logo-de-Videojuegos/"><img src="assets/videojuegos.svg" alt="web-videojuegos" width="272"/></a>
+<a href="https://raulo9.github.io/Cat-logo-de-Videojuegos/"><img src="assets/videojuegos.svg" alt="web-videojuegos" width="32%"/></a>
 <!-- Tarjeta 2: enlaza con la galería de mi web adaptable de GTA V -->
-<a href="https://raulo9.github.io/GTA-V-/galeria.html"><img src="assets/p_adaptable.svg" alt="web-adaptable" width="272"/></a>
+<a href="https://raulo9.github.io/GTA-V-/galeria.html"><img src="assets/p_adaptable.svg" alt="web-adaptable" width="32%"/></a>
 <!-- Tarjeta 3: enlaza con la web animada de GTA VI publicada en GitHub Pages -->
-<a href="https://raulo9.github.io/GTA-VI/"><img src="assets/p_gtavi.svg" alt="web-animada-gta-vi" width="272"/></a>
+<a href="https://raulo9.github.io/GTA-VI/"><img src="assets/p_gtavi.svg" alt="web-animada-gta-vi" width="32%"/></a>
 
 <br>
 
 <!-- Botones de contacto. Cada uno es una imagen dentro de un enlace -->
 <!-- LinkedIn: abre mi perfil (la í de "garcía" va escrita como %C3%AD porque las direcciones web no admiten tildes directamente) -->
-<a href="https://www.linkedin.com/in/raul-oliva-garc%C3%ADa"><img src="assets/c_linkedin.svg" alt="LinkedIn" width="272"/></a>
+<a href="https://www.linkedin.com/in/raul-oliva-garc%C3%ADa"><img src="assets/c_linkedin.svg" alt="LinkedIn" width="32%"/></a>
 <!-- Email: "mailto:" abre el programa de correo con mi dirección ya escrita -->
-<a href="mailto:rauloliva2001@gmail.com"><img src="assets/c_email.svg" alt="Email" width="272"/></a>
+<a href="mailto:rauloliva2001@gmail.com"><img src="assets/c_email.svg" alt="Email" width="32%"/></a>
 <!-- Portfolio: abre mi web personal en GitHub Pages -->
-<a href="https://raulo9.github.io"><img src="assets/c_portfolio.svg" alt="Portfolio" width="272"/></a>
+<a href="https://raulo9.github.io"><img src="assets/c_portfolio.svg" alt="Portfolio" width="32%"/></a>
 
 <br>
 
