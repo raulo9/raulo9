@@ -31,17 +31,17 @@
 
 <br>
 
-<!-- Tarjetas de mis proyectos. Cada imagen va dentro de un enlace <a>, así que al pulsar la tarjeta se abre el proyecto. Miden un tercio del ancho (33,2%) y van pegadas en una sola línea, así llenan exactamente el mismo ancho que las ventanas de arriba.
+<!-- Tarjetas de mis proyectos. Cada imagen va dentro de un enlace <a>, así que al pulsar la tarjeta se abre el proyecto. Miden un tercio del ancho (31,6%) y van en una sola línea separadas por un espacio (&ensp;), así llenan casi todo el ancho de las ventanas de arriba y no quedan pegadas.
      Tarjeta 1: Catálogo de Videojuegos (GitHub Pages). Tarjeta 2: galería de mi web adaptable de GTA V. Tarjeta 3: web animada de GTA VI (GitHub Pages).
-     IMPORTANTE: los tres enlaces van pegados en la misma línea, sin espacios ni comentarios entre medias. Si pongo un comentario entre dos tarjetas, GitHub las separa en párrafos distintos y se apilan en vertical. -->
-<a href="https://raulo9.github.io/Cat-logo-de-Videojuegos/"><img src="assets/videojuegos.svg" alt="web-videojuegos" width="33.2%"/></a><a href="https://raulo9.github.io/GTA-V-/galeria.html"><img src="assets/p_adaptable.svg" alt="web-adaptable" width="33.2%"/></a><a href="https://raulo9.github.io/GTA-VI/"><img src="assets/p_gtavi.svg" alt="web-animada-gta-vi" width="33.2%"/></a>
+     IMPORTANTE: los tres enlaces van pegados en la misma línea, sin comentarios entre medias (solo el espacio &ensp; que las separa). Si pongo un comentario entre dos tarjetas, GitHub las separa en párrafos distintos y se apilan en vertical. -->
+<a href="https://raulo9.github.io/Cat-logo-de-Videojuegos/"><img src="assets/videojuegos.svg" alt="web-videojuegos" width="31.6%"/></a>&ensp;<a href="https://raulo9.github.io/GTA-V-/galeria.html"><img src="assets/p_adaptable.svg" alt="web-adaptable" width="31.6%"/></a>&ensp;<a href="https://raulo9.github.io/GTA-VI/"><img src="assets/p_gtavi.svg" alt="web-animada-gta-vi" width="31.6%"/></a>
 
 <br>
 
 <!-- Botones de contacto. Cada uno es una imagen dentro de un enlace, y también van pegados en una sola línea para que ocupen el mismo ancho que lo demás.
      LinkedIn: abre mi perfil (la í de "garcía" va escrita como %C3%AD porque las direcciones web no admiten tildes directamente).
      Email: "mailto:" abre el programa de correo con mi dirección ya escrita. Portfolio: abre mi web personal en GitHub Pages. -->
-<a href="https://www.linkedin.com/in/raul-oliva-garc%C3%ADa"><img src="assets/c_linkedin.svg" alt="LinkedIn" width="33.2%"/></a><a href="mailto:rauloliva2001@gmail.com"><img src="assets/c_email.svg" alt="Email" width="33.2%"/></a><a href="https://raulo9.github.io"><img src="assets/c_portfolio.svg" alt="Portfolio" width="33.2%"/></a>
+<a href="https://www.linkedin.com/in/raul-oliva-garc%C3%ADa"><img src="assets/c_linkedin.svg" alt="LinkedIn" width="31.6%"/></a>&ensp;<a href="mailto:rauloliva2001@gmail.com"><img src="assets/c_email.svg" alt="Email" width="31.6%"/></a>&ensp;<a href="https://raulo9.github.io"><img src="assets/c_portfolio.svg" alt="Portfolio" width="31.6%"/></a>
 
 <br>
 
