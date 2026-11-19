@@ -31,17 +31,17 @@
 
 <br>
 
-<!-- Tarjetas de mis proyectos. Cada imagen va dentro de un enlace <a>, así que al pulsar la tarjeta se abre el proyecto. Miden un tercio del ancho (31,6%) y van en una sola línea y suman el 100% del ancho, igual que las ventanas de arriba. La separación entre tarjetas la llevo dentro de los propios SVG (10px transparentes a la derecha de las dos primeras), por eso miden 33.7%, 33.7% y 32.5%.
+<!-- Tarjetas de mis proyectos. Cada imagen va dentro de un enlace <a>, así que al pulsar la tarjeta se abre el proyecto. Miden un tercio del ancho (31,6%) y van en una sola línea y miden un tercio cada una (33,3%) y suman el ancho completo, igual que las ventanas de arriba. Los tres SVG de cada fila tienen exactamente el mismo tamaño y la separación entre tarjetas va dentro de ellos (margen transparente), porque GitHub no deja poner márgenes con CSS.
      Tarjeta 1: Catálogo de Videojuegos (GitHub Pages). Tarjeta 2: galería de mi web adaptable de GTA V. Tarjeta 3: web animada de GTA VI (GitHub Pages).
      IMPORTANTE: los tres enlaces van pegados en la misma línea, sin comentarios entre medias ni espacios (la separación va dentro del SVG). Si pongo un comentario entre dos tarjetas, GitHub las separa en párrafos distintos y se apilan en vertical. -->
-<a href="https://raulo9.github.io/Cat-logo-de-Videojuegos/"><img src="assets/videojuegos.svg" alt="web-videojuegos" width="33.7%"/></a><a href="https://raulo9.github.io/GTA-V-/galeria.html"><img src="assets/p_adaptable.svg" alt="web-adaptable" width="33.7%"/></a><a href="https://raulo9.github.io/GTA-VI/"><img src="assets/p_gtavi.svg" alt="web-animada-gta-vi" width="32.5%"/></a>
+<a href="https://raulo9.github.io/Cat-logo-de-Videojuegos/"><img src="assets/card_p1.svg" alt="web-videojuegos" width="33.3%"/></a><a href="https://raulo9.github.io/GTA-V-/galeria.html"><img src="assets/card_p2.svg" alt="web-adaptable" width="33.3%"/></a><a href="https://raulo9.github.io/GTA-VI/"><img src="assets/card_p3.svg" alt="web-animada-gta-vi" width="33.3%"/></a>
 
 <br>
 
 <!-- Botones de contacto. Cada uno es una imagen dentro de un enlace, y también van pegados en una sola línea para que ocupen el mismo ancho que lo demás.
      LinkedIn: abre mi perfil (la í de "garcía" va escrita como %C3%AD porque las direcciones web no admiten tildes directamente).
      Email: "mailto:" abre el programa de correo con mi dirección ya escrita. Portfolio: abre mi web personal en GitHub Pages. -->
-<a href="https://www.linkedin.com/in/raul-oliva-garc%C3%ADa"><img src="assets/c_linkedin.svg" alt="LinkedIn" width="33.7%"/></a><a href="mailto:rauloliva2001@gmail.com"><img src="assets/c_email.svg" alt="Email" width="33.7%"/></a><a href="https://raulo9.github.io"><img src="assets/c_portfolio.svg" alt="Portfolio" width="32.5%"/></a>
+<a href="https://www.linkedin.com/in/raul-oliva-garc%C3%ADa"><img src="assets/card_c1.svg" alt="LinkedIn" width="33.3%"/></a><a href="mailto:rauloliva2001@gmail.com"><img src="assets/card_c2.svg" alt="Email" width="33.3%"/></a><a href="https://raulo9.github.io"><img src="assets/card_c3.svg" alt="Portfolio" width="33.3%"/></a>
 
 <br>
 
