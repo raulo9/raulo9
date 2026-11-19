@@ -43,7 +43,7 @@
 <!-- Botones de contacto. Cada uno es una imagen dentro de un enlace, y también van pegados en una sola línea para que ocupen el mismo ancho que lo demás.
      LinkedIn: abre mi perfil (la í de "garcía" va escrita como %C3%AD porque las direcciones web no admiten tildes directamente).
      Email: "mailto:" abre el programa de correo con mi dirección ya escrita. Portfolio: abre mi web personal en GitHub Pages. -->
-<a href="https://www.linkedin.com/in/raul-oliva-garc%C3%ADa"><img src="assets/c_linkedin.svg" alt="LinkedIn" width="33.3%"/></a><a href="mailto:rauloliva2001@gmail.com"><img src="assets/c_email.svg" alt="Email" width="33.3%"/></a><a href="https://raulo9.github.io"><img src="assets/c_portfolio.svg" alt="Portfolio" width="33.3%"/></a>
+<a href="https://www.linkedin.com/in/raul-oliva-garc%C3%ADa"><img src="assets/c_linkedin.svg" alt="LinkedIn" width="33.3%"/></a><a href="mailto:rauloliva2001@gmail.com"><img src="assets/c_email.svg" alt="Email" width="33.3%"/></a><a href="https://raulo9.github.io"><img src="assets/c_web.svg" alt="Portfolio" width="33.3%"/></a>
 
 <br>
 
